@@ -6,7 +6,7 @@
 
 body {
   padding-bottom: 40px;
-  background-color: #beb;
+  background-color: #eee;
   color: #444;
 }
 
@@ -48,6 +48,18 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
+}
+.carousel-caption a:link {
+  color: #444;
+}
+.carousel-caption a:visited {
+  color: #444;
+}
+.carousel-caption a:hover {
+  color: #444;
+}
+.carousel-caption a:active {
+  color: #444;
 }
 
 /* Declare heights because of positioning of img element */
