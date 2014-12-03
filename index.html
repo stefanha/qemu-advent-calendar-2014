@@ -34,6 +34,7 @@
                   <ul class="dropdown-menu" role="menu">
                     <li><a href="#day-1">1 - Slacker's time travel</a></li>
                     <li><a href="#day-2">2 - Modern DOS</a></li>
+                    <li><a href="#day-3">3 - Bootable Pi</a></li>
                   </ul>
                 </li>
                 <li><a href="#about">About</a></li>
@@ -68,22 +69,19 @@
 
     <div class="container marketing">
 
-      <!-- Disk images are added like this:
-
       <div id="day-3" class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Day 3 - Redmond compatible</h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-          <a href="#" class="btn btn-primary btn-lg" role="button">Download</a>
+          <h2 class="featurette-heading">Day 3 - Bootable Pi</h2>
+          <p class="lead">The first image about algorithms (and there are more puzzles to come).  How does this tiny boot sector calculate digits of pi?  Disassemble with <tt>objdump -D -b binary -m i8086 pi.vfd</tt> or mount the disk image's FAT file system to view the source.</p>
+          <p>Paolo Bonzini prepared this disk image based on QEMU's <tt>pi_10.com</tt> test case.  Unpack with <tt>tar xf pi.tar.xz</tt> and launch the <tt>pi/run</tt> script.</p>
+          <a href="download/pi.tar.xz" class="btn btn-primary btn-lg" role="button">Download</a>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="images/day3.png" alt="Day 3">
         </div>
       </div>
 
       <hr class="featurette-divider">
-
-      -->
 
       <div id="day-2" class="row featurette">
         <div class="col-md-5">
