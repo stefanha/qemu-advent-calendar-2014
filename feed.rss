@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>QEMU Advent Calendar 2014</title>
+        <link>http://qemu-advent-calendar.org/</link>
+        <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
+        <pubDate>Mon, 8 Dec 2014 09:14:00 GMT</pubDate>
+
+        <item>
+            <title>Day 7 - MINIX 3 under the Christmas tree</title>
+            <link>http://www.qemu-advent-calendar.org/#day-7</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-7</guid>
+	    <description>The venerable MINIX operating system has conquered x86 and ARM platforms with microkernel goodness. Famous for isolating and running operating system components in separate processes so the system can survive failures, MINIX 3 takes pieces from NetBSD userspace so it feels like UNIX - just unstoppable and about to take over the world!</description>
+        </item>
+
+        <item>
+            <title>Day 6 - 512 byte Julia fractal</title>
+            <link>http://www.qemu-advent-calendar.org/#day-6</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-6</guid>
+	    <description>This tiny disk image renders a Julia fractal in 640x480 resolution 256 color animated glory! Besides using the quaint 256 color palette, this image has a nice sequence of floating point calculations if you want to refresh your x87 instruction knowledge. For a write-up and more screenshots, see this blog post and this one.</description>
+        </item>
+
+        <item>
+            <title>Day 5 - 64-bit ARM has landed</title>
+            <link>http://www.qemu-advent-calendar.org/#day-5</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-5</guid>
+	    <description>QEMU is the first open source emulator with 64-bit ARM support (also known as aarch64). That's right, QEMU doesn't just emulate old hardware, it emulates hardware you may not even own yet! But if you think 32 bits ought to be enough for anyone, just collect your bragging rights for playing tetris-bsd on a bleeding edge hardware architecture.</description>
+        </item>
+
+        <item>
+            <title>Day 4 - Can't spell Christmas without ST</title>
+            <link>http://www.qemu-advent-calendar.org/#day-4</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-4</guid>
+	    <description>Santa has brought you an Atari ST. Get ready for an emulator-inside-an-emulator image that boots straight into the Hatari emulator and the free EmuTOS ROM. This image comes with Atari ST demos for you to enjoy, plus the retro desktop interface.</description>
+        </item>
+
+        <item>
+            <title>Day 3 - Bootable Pi</title>
+            <link>http://www.qemu-advent-calendar.org/#day-3</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-3</guid>
+	    <description>The first image about algorithms (and there are more puzzles to come). How does this tiny boot sector calculate digits of pi? Disassemble with objdump -D -b binary -m i8086 pi.vfd or mount the disk image's FAT file system to view the source.</description>
+        </item>
+
+        <item>
+            <title>Day 2 - Modern DOS</title>
+            <link>http://www.qemu-advent-calendar.org/#day-2</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-2</guid>
+	    <description>This FreeDOS disk image contains the latest and greatest from the land of the Disk Operating System. Besides checking out the DOS TCP/IP stack you never got a chance to use with your 2400 baud modem, you can relive id Software's early shareware hit Commander Keen. As a bonus the freeware edition of Jetpack is also included for crazy jet-powered platform action.</description>
+        </item>
+
+        <item>
+            <title>Day 1 - Slacker's time travel</title>
+            <link>http://www.qemu-advent-calendar.org/#day-1</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-1</guid>
+            <description>What happens when you dig up the earliest Slackware Linux image to be had? Travel back in time and experience Linux in its early days. And when we say early, we mean kernel pre-1.0 early! The Slackware distribution is the oldest still maintained distribution.</description>
+        </item>
+    </channel>
+</rss>

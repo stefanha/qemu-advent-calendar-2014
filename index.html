@@ -7,6 +7,8 @@
 
     <title>QEMU Advent Calendar 2014</title>
 
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://qemu-advent-calendar.org/feed.rss" />
+
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
   </head>
@@ -37,6 +39,8 @@
                     <li><a href="#day-3">3 - Bootable Pi</a></li>
                     <li><a href="#day-4">4 - Can't spell Christmas without ST</a></li>
                     <li><a href="#day-5">5 - 64-bit ARM has landed</a></li>
+                    <li><a href="#day-6">6 - 512 byte Julia fractal</a></li>
+                    <li><a href="#day-7">7 - MINIX 3 under the Christmas tree</a></li>
                   </ul>
                 </li>
                 <li><a href="#about">About</a></li>
@@ -70,6 +74,34 @@
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container marketing">
+
+      <div id="day-7" class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Day 7 - MINIX 3 under the Christmas tree</h2>
+          <p class="lead">The venerable MINIX operating system has conquered x86 and ARM platforms with microkernel goodness.  Famous for isolating and running operating system components in separate processes so the system can survive failures, <a href="http://minix3.org/">MINIX 3</a> takes pieces from <a href="http://www.netbsd.org/docs/software/packages.html">NetBSD userspace</a> so it feels like UNIX - just unstoppable and about to take over the world!</p>
+          <p>Fam Zheng prepared this image.  Unpack with <tt>tar xf qemu-xmas-minix3.tar.xz</tt> and launch the <tt>qemu-xmas-minix3/run</tt> script.  <a href="download/minix-3.3.0.tar.xz">Source code</a></p>
+          <a href="download/qemu-xmas-minix3.tar.xz" class="btn btn-primary btn-lg" role="button">Download</a>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="images/day7.png" alt="Day 7">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div id="day-6" class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="images/day6.png" alt="Day 6">
+        </div>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Day 6 - 512 byte Julia fractal</h2>
+          <p class="lead">This tiny disk image renders a Julia fractal in 640x480 resolution 256 color animated glory!  Besides using the quaint 256 color palette, this image has a nice sequence of floating point calculations if you want to refresh your x87 instruction knowledge.  For a write-up and more screenshots, see this <a href="http://mainisusuallyafunction.blogspot.co.uk/2011/10/phosphene-fractal-video-feedback-as-pc.html">blog post</a> and <a href="http://wealoneonearth.blogspot.co.uk/2011/07/instantly-boot-feedback-fractals-with.html">this one</a>.</p>
+          <p>Riku Voipio prepared this disk image from Keegan McAllister's demo.  Unpack with <tt>tar xf fractal-mbr.tar.xz</tt> and launch the <tt>fractal-mbr/run</tt> script.  <a href="https://github.com/kmcallister/phosphene/">Source code</a></p>
+          <a href="download/fractal-mbr.tar.xz" class="btn btn-primary btn-lg" role="button">Download</a>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
 
       <div id="day-5" class="row featurette">
         <div class="col-md-7">
