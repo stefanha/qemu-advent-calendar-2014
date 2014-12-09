@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Mon, 8 Dec 2014 10:41:00 GMT</pubDate>
+        <pubDate>Tue, 9 Dec 2014 16:00:00 GMT</pubDate>
+
+        <item>
+            <title>Day 9 - Ubuntu Core, a snappy holiday surprise</title>
+            <link>http://www.qemu-advent-calendar.org/#day-9</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-9</guid>
+	    <description>Surprise, Ubuntu is adding a new member to their family, Ubuntu Core!  The new Snappy package manager makes it easy to share apps or containers with transactional updates.  The whole image weighs in at 110 MB and uses kernel confinement to isolate apps for security.  Say hello to the new cloud guest operating system from Ubuntu!</description>
+        </item>
 
         <item>
             <title>Day 8 - Unlikely marriage of UEFI and Zork</title>
