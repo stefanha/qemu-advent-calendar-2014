@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Mon, 8 Dec 2014 09:14:00 GMT</pubDate>
+        <pubDate>Mon, 8 Dec 2014 10:41:00 GMT</pubDate>
+
+        <item>
+            <title>Day 8 - Unlikely marriage of UEFI and Zork</title>
+            <link>http://www.qemu-advent-calendar.org/#day-8</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-8</guid>
+	    <description>This port of the Frotz Z-Machine interpreter allows you to play the original Zork text adventure game on TianoCore UEFI firmware. A significant milestone in UEFI gaming? You be the judge in this showcase of virtual machines without legacy BIOS.</description>
+        </item>
 
         <item>
             <title>Day 7 - MINIX 3 under the Christmas tree</title>
