@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Tue, 9 Dec 2014 16:00:00 GMT</pubDate>
+        <pubDate>Tue, 10 Dec 2014 13:23:00 GMT</pubDate>
+
+        <item>
+            <title>Day 10 - 3 x 512 byte demos</title>
+            <link>http://www.qemu-advent-calendar.org/#day-10</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-10</guid>
+	    <description>Why do things properly when you can attempt them in 512 bytes?  This selection of demos leave no precious byte untouched.  Featuring a ray tracer that spells out "QMU", a software-rendered triangle, and a nyan cat demo to rock your PC speaker with a sweet tune.</description>
+        </item>
 
         <item>
             <title>Day 9 - Ubuntu Core, a snappy holiday surprise</title>
