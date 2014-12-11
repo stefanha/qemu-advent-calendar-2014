@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Tue, 10 Dec 2014 13:23:00 GMT</pubDate>
+        <pubDate>Tue, 11 Dec 2014 13:10:00 GMT</pubDate>
+
+        <item>
+            <title>Day 11 - OSv Redis appliance</title>
+            <link>http://www.qemu-advent-calendar.org/#day-11</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-11</guid>
+	    <description>OSv is a guest operating system that eliminates redundant layers of systems software by building a combined kernel, runtime, and application image.  The idea is to simplify management while improving performance.  This disk image includes the Redis key-value store for your NoSQL enjoyment.</description>
+        </item>
 
         <item>
             <title>Day 10 - 3 x 512 byte demos</title>
