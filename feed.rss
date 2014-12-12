@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Sat, 13 Dec 2014 6:30:00 GMT</pubDate>
+        <pubDate>Sun, 14 Dec 2014 7:30:00 GMT</pubDate>
+
+        <item>
+            <title>Day 14 - Multiboot "Invaders"</title>
+            <link>http://www.qemu-advent-calendar.org/#day-14</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-14</guid>
+	    <description>The Multiboot boot sequence is supported by the GRUB bootloaders and QEMU as a way to standardize common mechanisms like kernel command-lines, modules/initrd, x86 protected mode, and graphics mode at startup.  This little spaceship game is implemented as a Multiboot-compliant binary so it can be loaded directly by QEMU.</description>
+        </item>
 
         <item>
             <title>Day 13 - Second Reality</title>
