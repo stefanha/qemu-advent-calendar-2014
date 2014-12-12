@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Tue, 11 Dec 2014 13:10:00 GMT</pubDate>
+        <pubDate>Tue, 12 Dec 2014 10:15:00 GMT</pubDate>
+
+        <item>
+            <title>Day 12 - ETH Native Oberon</title>
+            <link>http://www.qemu-advent-calendar.org/#day-12</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-12</guid>
+	    <description>Oberon is both a family of operating systems and a programming language created by Niklaus Wirth of Modula-2 and Pascal fame.  This image contains the PC Native Oberon variant with an Oberon compiler, network stack, file systems, and graphical user interface.  A parallel universe without UNIX or C...</description>
+        </item>
 
         <item>
             <title>Day 11 - OSv Redis appliance</title>
