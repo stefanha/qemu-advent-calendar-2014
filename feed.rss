@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Tue, 12 Dec 2014 10:15:00 GMT</pubDate>
+        <pubDate>Sat, 13 Dec 2014 6:30:00 GMT</pubDate>
+
+        <item>
+            <title>Day 13 - Second Reality</title>
+            <link>http://www.qemu-advent-calendar.org/#day-13</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-13</guid>
+	    <description>Second Reality is a well-known PC demo from 1993 that combines both 2D and 3D graphics techniques.  The source code was released in 2013.  Try it out and bring the demo to life in QEMU!</description>
+        </item>
 
         <item>
             <title>Day 12 - ETH Native Oberon</title>
