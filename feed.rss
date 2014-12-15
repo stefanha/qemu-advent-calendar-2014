@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Sun, 14 Dec 2014 7:30:00 GMT</pubDate>
+        <pubDate>Mon, 15 Dec 2014 9:45:00 GMT</pubDate>
+
+        <item>
+            <title>Day 15 - Glenda's Christmas</title>
+            <link>http://www.qemu-advent-calendar.org/#day-15</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-15</guid>
+	    <description>Plan 9 from Bell Labs was designed as a successor to Unix.  Some of its key features made it back into Linux, including private mount namespaces, userspace file systems, and UTF-8.  You still need to experience the original where these concepts really work together to achieve an elegant operating system.</description>
+        </item>
 
         <item>
             <title>Day 14 - Multiboot "Invaders"</title>
