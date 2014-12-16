@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Mon, 15 Dec 2014 9:45:00 GMT</pubDate>
+        <pubDate>Tue, 16 Dec 2014 9:10:00 GMT</pubDate>
+
+        <item>
+            <title>Day 16 - Tempest Showroom</title>
+            <link>http://www.qemu-advent-calendar.org/#day-16</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-16</guid>
+	    <description>Tempest Showroom plays melodies on AM radio by displaying specific image patterns.  Back when CRT monitors were the norm, there were concerns about electromagnetic surveillance due to the signals that computer systems emitted.  A related demo is Fabrice Bellard's Analog and Digital TV (DVB-T) Signal Generation.</description>
+        </item>
 
         <item>
             <title>Day 15 - Glenda's Christmas</title>
