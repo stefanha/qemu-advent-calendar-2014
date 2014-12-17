@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Tue, 16 Dec 2014 9:10:00 GMT</pubDate>
+        <pubDate>Wed, 17 Dec 2014 10:20:00 GMT</pubDate>
+
+        <item>
+            <title>Day 17 - ASCII art demo goodness</title>
+            <link>http://www.qemu-advent-calendar.org/#day-17</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-17</guid>
+	    <description>BB is an ASCII art demo that renders surprisingly smooth effects using aalib.  aalib converts pixel images or movies to ASCII art using the shapes of characters to achieve pleasing visuals.  Matrix digital rain fans will enjoy this demo!</description>
+        </item>
 
         <item>
             <title>Day 16 - Tempest Showroom</title>
