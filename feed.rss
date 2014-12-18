@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Wed, 17 Dec 2014 10:20:00 GMT</pubDate>
+        <pubDate>Thu, 18 Dec 2014 11:40:00 GMT</pubDate>
+
+        <item>
+            <title>Day 18 - Ceph distributed storage system</title>
+            <link>http://www.qemu-advent-calendar.org/#day-18</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-18</guid>
+	    <description>The Ceph open source distributed storage system has become a popular way to provide cloud storage and VM disk image hosting on commodity hardware.  Object storage, block storage, and file system use cases are all supported.  A quickstart guide is available, try ceph status.</description>
+        </item>
 
         <item>
             <title>Day 17 - ASCII art demo goodness</title>
