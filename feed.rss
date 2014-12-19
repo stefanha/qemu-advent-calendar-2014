@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Thu, 18 Dec 2014 11:40:00 GMT</pubDate>
+        <pubDate>Fri, 19 Dec 2014 08:45:00 GMT</pubDate>
+
+        <item>
+            <title>Day 19 - Mandelbrot in Forth</title>
+            <link>http://www.qemu-advent-calendar.org/#day-19</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-19</guid>
+	    <description>The Mandelbrot set is one of the most well-known fractals.  This demo for PowerPC implements the fractal in Forth so it executes as an OpenFirmware boot script.  You can zoom in/out and move around the fractal.</description>
+        </item>
 
         <item>
             <title>Day 18 - Ceph distributed storage system</title>
