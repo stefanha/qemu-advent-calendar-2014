@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Fri, 19 Dec 2014 08:45:00 GMT</pubDate>
+        <pubDate>Sat, 20 Dec 2014 10:50:00 GMT</pubDate>
+
+        <item>
+            <title>Day 20 - HelenOS microkernel multiserver portable OS</title>
+            <link>http://www.qemu-advent-calendar.org/#day-20</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-20</guid>
+	    <description>HelenOS is a modern, general-purpose operating system written from scratch.  It is based on microkernel multiserver design principles.  Core system functionality is decomposed into isolated, intensively communicating and mostly simple user space tasks. HelenOS is still in development and this is a preview of the upcoming 0.6.0 release.  There is a step-by-step tutorial and the HelenOS wiki.</description>
+        </item>
 
         <item>
             <title>Day 19 - Mandelbrot in Forth</title>
