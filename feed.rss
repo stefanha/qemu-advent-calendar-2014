@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Sat, 20 Dec 2014 10:50:00 GMT</pubDate>
+        <pubDate>Sun, 21 Dec 2014 18:00:00 GMT</pubDate>
+
+        <item>
+            <title>Day 21 - Cult of the Bound Variable</title>
+            <link>http://www.qemu-advent-calendar.org/#day-21</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-21</guid>
+	    <description>The Ninth annual ICFP Programming Contest hosted by Carnegie Mellon University's POP Group was an epic programming puzzle, perfect for the winter holiday break.  This disk image has everything you need to start exploring a series of challenging puzzles into programming languages and obscure systems.  Read the full back-story here.</description>
+        </item>
 
         <item>
             <title>Day 20 - HelenOS microkernel multiserver portable OS</title>
