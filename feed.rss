@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Mon, 22 Dec 2014 08:20:00 GMT</pubDate>
+        <pubDate>Tue, 23 Dec 2014 11:20:00 GMT</pubDate>
+
+        <item>
+            <title>Day 23 - Got Pebble?</title>
+            <link>http://www.qemu-advent-calendar.org/#day-23</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-23</guid>
+	    <description>Pebble smartwatch can be connected to iOS and Android devices and runs its own apps.  The emulator for app development is QEMU and the Pebble team have made a preview release available for the QEMU Advent Calendar!  Check out the Getting Started guide for app development in C or Javascript.</description>
+        </item>
 
         <item>
             <title>Day 22 - Moon Buggy on s390</title>
