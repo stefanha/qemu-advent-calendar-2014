@@ -4,7 +4,14 @@
         <title>QEMU Advent Calendar 2014</title>
         <link>http://qemu-advent-calendar.org/</link>
         <description>The latest disk images from the QEMU Advent Calendar 2014.</description>
-        <pubDate>Tue, 23 Dec 2014 11:20:00 GMT</pubDate>
+        <pubDate>Wed, 24 Dec 2014 07:30:00 GMT</pubDate>
+
+        <item>
+            <title>Day 24 - Go out with a bang</title>
+            <link>http://www.qemu-advent-calendar.org/#day-24</link>
+            <guid>http://www.qemu-advent-calendar.org/#day-24</guid>
+	    <description>This game was custom-coded for the final advent calendar entry.  It's a classic that we hope you'll enjoy (the hint is in the title).  Thank you for following QEMU Advent Calendar 2014, it's been great fun to share an interesting disk image each day.  Happy New Year!</description>
+        </item>
 
         <item>
             <title>Day 23 - Got Pebble?</title>
